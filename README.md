@@ -1,5 +1,5 @@
 # junos-udl
-User-defined language for Junos config file editing in Notepad++
+User-defined language for Junos® config file editing in Notepad++
 
 * This language formatting is automatically applied to any file ending with the extension .junos
 * It was designed to be used with a dark theme, so some of the colors would make readability very hard with backgrounds like white.
